@@ -1,38 +1,65 @@
-p.serif {
-  font-family: "Times New Roman", Times, serif;
+.font1 {
+  font-family: 'Arial', sans-serif;
 }
 
-p.sansserif {
-  font-family: Arial, Helvetica, sans-serif;
+.font2 {
+  font-family: 'Verdana', sans-serif;
 }
 
-p.monospace {
-  font-family: "Lucida Console", Courier, monospace;
+.font3 {
+  font-family: 'Times New Roman', serif;
 }
 
-p.cursive {
-  font-family: cursive;
+.font4 {
+  font-family: 'Courier New', monospace;
 }
 
-p.fantasy {
-  font-family: fantasy;
+.font5 {
+  font-family: 'Arial Black', sans-serif;
 }
 
-p.papyrus {
-  font-family: papyrus;
-}
-p.courier {
-  font-family: courier;
+.font6 {
+  font-family: 'Impact', sans-serif;
 }
 
-p.impact {
-  font-family: impact;
+.font7 {
+  font-family: 'Georgia', serif;
 }
 
-p.georgia {
-  font-family: georgia;
+.font8 {
+  font-family: 'Tahoma', sans-serif;
 }
 
-p.palatino {
-  font-family: palatino;
+.font9 {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.font10 {
+  font-family: 'Comic Sans MS', cursive;
+}
+
+.font11 {
+  font-family: 'Arial', sans-serif;
+}
+
+.font12 {
+  font-family: 'Verdana', sans-serif;
+}
+
+.font13 {
+  font-family: 'Times New Roman', serif;
+}
+
+.font14 {
+  font-family: 'Courier New', monospace;
+}
+
+.font15 {
+  font-family: 'Tahoma', sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
 }
